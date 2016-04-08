@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = '40423152'
-SITENAME = '40423105の網誌'
+SITENAME = '40423152の網誌'
 SITEURL = 'http://40423152.github.io/blog/'
 
 # 不要用文章所在目錄作為類別
