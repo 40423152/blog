@@ -26,6 +26,12 @@
 <v t="leo.20160401104943.1"><vh>近端專用</vh></v>
 <v t="leo.20160401104857.1"><vh>@edit local_publishconf.py</vh></v>
 </v>
+<v t="leo.20160408153548.1" a="E"><vh>本地端與遠端共用的設定</vh>
+<v t="leo.20160408153548.2"><vh>@edit pelicanconf.py</vh></v>
+</v>
+<v t="leo.20160408153618.1" a="E"><vh>配合本地端設定</vh>
+<v t="leo.20160408153618.2"><vh>@edit local_publishconf.py</vh></v>
+</v>
 <v t="amd.20160329124921.1"><vh>@edit index.html</vh></v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
@@ -43,13 +49,13 @@
 Title: template-啟動電腦輔助機械設計手冊編輯
 Category: 規劃
 Tags: CADLAB, Ｍanual, MCAD
-Author: kmol
+Author: 40423152
 @others
 手冊類別分為 OnShape, Solvespace, FreeCAD, Elmer, V-rep 以及 Jupyter, 加上範例, 編寫模式與架構則透過 Leo Editor, Pelican,  與 Github pull requests 完成.
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="http://cad-lab.github.io/manual"&gt;http://cad-lab.github.io/manual&lt;/a&gt;</t>
+&lt;a href="http://40423152.github.io/manual"&gt;http://40423152.github.io/manual&lt;/a&gt;</t>
 <t tx="amd.20160329162138.1"></t>
 <t tx="amd.20160329163719.1"></t>
 <t tx="amd.20160329163719.2">@language python
@@ -87,5 +93,7 @@ Wordpress - &gt; 動態網誌
 Pelican -&gt; 靜態網誌
 
 CMSimply -&gt; 資料收集內容管理系統</t>
+<t tx="leo.20160408153548.1"></t>
+<t tx="leo.20160408153618.1"></t>
 </tnodes>
 </leo_file>

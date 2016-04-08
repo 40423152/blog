@@ -18,8 +18,15 @@
 <v t="amd.20160329163719.1" a="E"><vh>假如要在近端檢視, 使用下列按鈕</vh>
 <v t="amd.20160329163719.2"><vh>@button local pelican</vh></v>
 </v>
-<v t="amd.20160329162138.1"><vh>設定檔案</vh></v>
-<v t="amd.20160329165035.1"><vh>本地端與遠端共用的設定</vh>
+<v t="leo.20160408154312.1" a="E"><vh>設定檔案</vh>
+<v t="leo.20160408154312.2"><vh>共用設定</vh></v>
+<v t="leo.20160408154312.3"><vh>@edit pelicanconf.py</vh></v>
+<v t="leo.20160408154312.4"><vh>遠端專用</vh></v>
+<v t="leo.20160408154312.5"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160408154312.6"><vh>近端專用</vh></v>
+<v t="leo.20160408154312.7"><vh>@edit local_publishconf.py</vh></v>
+</v>
+<v t="amd.20160329165035.1" a="E"><vh>本地端與遠端共用的設定</vh>
 <v t="amd.20160329163958.1"><vh>@edit pelicanconf.py</vh></v>
 </v>
 <v t="amd.20160329165054.1" a="E"><vh>配合遠端 disqus 設定</vh>
@@ -32,6 +39,7 @@
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
 <v t="amd.20160329125251.1"><vh>@clean template-20160329.md</vh></v>
+<v t="leo.20160408154421.1"><vh>@clean 20160401.md</vh></v>
 </v>
 </v>
 </vnodes>
@@ -44,14 +52,14 @@
 Title: template-啟動電腦輔助機械設計手冊編輯
 Category: 規劃
 Tags: CADLAB, Ｍanual, MCAD
-Author: kmol
+Author: 40423152
 @others
 手冊類別分為 OnShape, Solvespace, FreeCAD, Elmer, V-rep 以及 Jupyter, 加上範例, 編寫模式與架構則透過 Leo Editor, Pelican,  與 Github pull requests 完成.
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="http://cad-lab.github.io/manual"&gt;http://cad-lab.github.io/manual&lt;/a&gt;</t>
-<t tx="amd.20160329162138.1"></t>
+&lt;a href="http://40423152.github.io/manual"&gt;http://40423152.github.io/manual&lt;/a&gt;
+</t>
 <t tx="amd.20160329163719.1"></t>
 <t tx="amd.20160329163719.2">@language python
 import os
@@ -71,5 +79,21 @@ g.es("admin pelican 執行完畢")
 <t tx="amd.20160329165035.1"></t>
 <t tx="amd.20160329165054.1"></t>
 <t tx="amd.20160329165118.1"></t>
+<t tx="leo.20160408154312.1"></t>
+<t tx="leo.20160408154312.2"></t>
+<t tx="leo.20160408154312.4"></t>
+<t tx="leo.20160408154312.6"></t>
+<t tx="leo.20160408154421.1">@language md
+Title: 40423152 愚人節安安
+Category: 規劃
+Tags: 嘿對
+Author: 40423152
+@others
+手冊類別分為 OnShape, Solvespace, FreeCAD, Elmer, V-rep 以及 Jupyter, 加上範例, 編寫模式與架構則透過 Leo Editor, Pelican,  與 Github pull requests 完成.
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;a href="http://40423152.github.io/blog"&gt;http://40423152.github.io/blog&lt;/a&gt;
+</t>
 </tnodes>
 </leo_file>
