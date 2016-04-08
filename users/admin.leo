@@ -55,7 +55,7 @@ Author: 40423152
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="http://40423152.github.io/manual"&gt;http://40423152.github.io/manual&lt;/a&gt;</t>
+&lt;a href="http://40423152.github.io/blog"&gt;http://40423152.github.io/blog&lt;/a&gt;</t>
 <t tx="amd.20160329162138.1"></t>
 <t tx="amd.20160329163719.1"></t>
 <t tx="amd.20160329163719.2">@language python
