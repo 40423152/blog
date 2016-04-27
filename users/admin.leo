@@ -43,6 +43,7 @@
 <v t="leo.20160428001122.1"><vh>@clean template-20160427.md</vh>
 <v t="leo.20160428003416.1"><vh>16</vh></v>
 <v t="leo.20160428003543.1"><vh>18</vh></v>
+<v t="leo.20160428004344.1"><vh>20</vh></v>
 </v>
 <v t="amd.20160329125251.1"><vh>@clean template-20160329.md</vh></v>
 <v t="leo.20160401112739.1"><vh>@clean admin-20160401.md</vh></v>
@@ -360,6 +361,8 @@ https://goo.gl/6zng0y
 
 3. 完成 Raspberry pi 3 model b 的虛擬規劃與 cadlab 中的應用流程介紹
 
+http://wp-ladisai.rhcloud.com/wp-content/uploads/2016/04/video-1461289169-SD.mp4
+
 4. 利用三個按鈕將上述內容在 pelican 與 WordPress 中以同步處理
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
@@ -368,5 +371,6 @@ https://goo.gl/6zng0y
 </t>
 <t tx="leo.20160428003416.1"></t>
 <t tx="leo.20160428003543.1"></t>
+<t tx="leo.20160428004344.1"></t>
 </tnodes>
 </leo_file>
