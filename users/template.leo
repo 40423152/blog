@@ -38,7 +38,8 @@
 <v t="amd.20160329124921.1"><vh>@edit index.html</vh></v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
-<v t="amd.20160329125251.1"><vh>@clean template-20160329.md</vh></v>
+<v t="amd.20160329125251.1"><vh>@clean template-20160427.md</vh></v>
+<v t="leo.20160427235122.1"><vh>@clean template-20160329.md</vh></v>
 <v t="leo.20160408154421.1"><vh>@clean 20160401.md</vh></v>
 </v>
 </v>
@@ -49,16 +50,43 @@
 <t tx="amd.20160329124849.1"></t>
 <t tx="amd.20160329124903.1"></t>
 <t tx="amd.20160329125251.1">@language md
-Title: template-啟動電腦輔助機械設計手冊編輯
-Category: 規劃
+Title: 第九組~40423152 網際內容管理 期中報告
+Category: 期中
 Tags: CADLAB, Ｍanual, MCAD
 Author: 40423152
 @others
-手冊類別分為 OnShape, Solvespace, FreeCAD, Elmer, V-rep 以及 Jupyter, 加上範例, 編寫模式與架構則透過 Leo Editor, Pelican,  與 Github pull requests 完成.
+聽說要貼網址~
+
+wordpress網址~~
+http://wp-40423152willy.rhcloud.com/
+
+Github
+http://40423152.github.io/blog/post/index.html
+
+CMSimply
+
+https://python-40423152willy.rhcloud.com/get_page?heading=%E7%AC%AC%E4%B9%9D%E7%B5%84~40423152+%E7%B6%B2%E9%9A%9B%E5%85%A7%E5%AE%B9%E7%AE%A1%E7%90%86+%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A
+
+1. 網路線製作流程紀錄，至少完成一條 568b 網路線及一條跳線並拍攝測試成功過程影片
+
+&lt;font size='8' color='red' face='標楷體'&gt;[網路線](http://i.imgur.com/Ga22Rsi.jpg) &lt;/font&gt;
+
+&lt;font size='8' color='red' face='標楷體'&gt;[跳線](http://i.imgur.com/Ga22Rsi.jpg) &lt;/font&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/164433363" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/164433363"&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/164432102" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/164432102"&gt;
+
+2. 認領一段系上網路配置，完成實體拍照上傳、完成網路配置繪圖、cat 6 網路線查驗替換及執行過程討論
+&lt;blockquote class="imgur-embed-pub" lang="en" data-id="H66BWKf"&gt;&lt;a href="//imgur.com/H66BWKf"&gt;View post on imgur.com&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src="//s.imgur.com/min/embed.js" charset="utf-8"&gt;&lt;/script&gt;
+
+3. 完成 Raspberry pi 3 model b 的虛擬規劃與 cadlab 中的應用流程介紹
+
+4. 利用三個按鈕將上述內容在 pelican 與 WordPress 中以同步處理
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-&lt;a href="http://40423152.github.io/manual"&gt;http://40423152.github.io/manual&lt;/a&gt;
+&lt;a href="http://40423152.github.io/blog"&gt;http://40423152.github.io/blog&lt;/a&gt;
 </t>
 <t tx="amd.20160329163719.1"></t>
 <t tx="amd.20160329163719.2">@language python
@@ -87,6 +115,18 @@ g.es("admin pelican 執行完畢")
 Title: 40423152 愚人節安安
 Category: 規劃
 Tags: 嘿對
+Author: 40423152
+@others
+手冊類別分為 OnShape, Solvespace, FreeCAD, Elmer, V-rep 以及 Jupyter, 加上範例, 編寫模式與架構則透過 Leo Editor, Pelican,  與 Github pull requests 完成.
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;a href="http://40423152.github.io/blog"&gt;http://40423152.github.io/blog&lt;/a&gt;
+</t>
+<t tx="leo.20160427235122.1">@language md
+Title: template-啟動電腦輔助機械設計手冊編輯
+Category: 規劃
+Tags: CADLAB, Ｍanual, MCAD
 Author: 40423152
 @others
 手冊類別分為 OnShape, Solvespace, FreeCAD, Elmer, V-rep 以及 Jupyter, 加上範例, 編寫模式與架構則透過 Leo Editor, Pelican,  與 Github pull requests 完成.
