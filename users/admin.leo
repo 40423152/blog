@@ -40,7 +40,10 @@
 <v t="amd.20160329124921.1"><vh>@edit index.html</vh></v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
-<v t="leo.20160428001122.1"><vh>@clean template-20160427.md</vh></v>
+<v t="leo.20160428001122.1"><vh>@clean template-20160427.md</vh>
+<v t="leo.20160428003416.1"><vh>16</vh></v>
+<v t="leo.20160428003543.1"><vh>18</vh></v>
+</v>
 <v t="amd.20160329125251.1"><vh>@clean template-20160329.md</vh></v>
 <v t="leo.20160401112739.1"><vh>@clean admin-20160401.md</vh></v>
 </v>
@@ -340,8 +343,7 @@ Github
 http://40423152.github.io/blog/post/index.html
 
 CMSimply
-
-https://python-40423152willy.rhcloud.com/get_page?heading=%E7%AC%AC%E4%B9%9D%E7%B5%84~40423152+%E7%B6%B2%E9%9A%9B%E5%85%A7%E5%AE%B9%E7%AE%A1%E7%90%86+%E6%9C%9F%E4%B8%AD%E5%A0%B1%E5%91%8A
+https://goo.gl/6zng0y
 
 1. 網路線製作流程紀錄，至少完成一條 568b 網路線及一條跳線並拍攝測試成功過程影片
 
@@ -364,5 +366,7 @@ https://python-40423152willy.rhcloud.com/get_page?heading=%E7%AC%AC%E4%B9%9D%E7%
 
 &lt;a href="http://40423152.github.io/blog"&gt;http://40423152.github.io/blog&lt;/a&gt;
 </t>
+<t tx="leo.20160428003416.1"></t>
+<t tx="leo.20160428003543.1"></t>
 </tnodes>
 </leo_file>
