@@ -358,6 +358,14 @@ https://goo.gl/6zng0y
 &lt;iframe src="https://player.vimeo.com/video/164432102" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/164432102"&gt;
 
 2. 認領一段系上網路配置，完成實體拍照上傳、完成網路配置繪圖、cat 6 網路線查驗替換及執行過程討論
+&lt;font size='8' color='red' face='標楷體'&gt;[照片1](http://i.imgur.com/kN6HweC.jpg)&lt;/font&gt;
+
+&lt;font size='8' color='red' face='標楷體'&gt;[照片2](http://i.imgur.com/STHR8To.jpg)&lt;/font&gt;
+
+&lt;font size='8' color='red' face='標楷體'&gt;[照片3](http://i.imgur.com/22vLD8P.jpg)&lt;/font&gt;
+
+&lt;font size='8' color='red' face='標楷體'&gt;[照片4](http://i.imgur.com/gHj97bR.jpg)&lt;/font&gt;
+
 &lt;blockquote class="imgur-embed-pub" lang="en" data-id="H66BWKf"&gt;&lt;a href="//imgur.com/H66BWKf"&gt;View post on imgur.com&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src="//s.imgur.com/min/embed.js" charset="utf-8"&gt;&lt;/script&gt;
 
 3. 完成 Raspberry pi 3 model b 的虛擬規劃與 cadlab 中的應用流程介紹
