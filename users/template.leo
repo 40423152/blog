@@ -70,7 +70,7 @@ https://goo.gl/6zng0y
 
 &lt;font size='8' color='red' face='標楷體'&gt;[網路線](http://i.imgur.com/Ga22Rsi.jpg) &lt;/font&gt;
 
-&lt;font size='8' color='red' face='標楷體'&gt;[跳線](http://i.imgur.com/Ga22Rsi.jpg) &lt;/font&gt;
+&lt;font size='8' color='red' face='標楷體'&gt;[跳線](http://i.imgur.com/hvyAPoX.jpg) &lt;/font&gt;
 
 &lt;iframe src="https://player.vimeo.com/video/164433363" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/164433363"&gt;
 
