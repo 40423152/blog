@@ -40,17 +40,10 @@
 <v t="amd.20160329124921.1"><vh>@edit index.html</vh></v>
 <v t="amd.20160329124849.1"><vh>進入 content 目錄</vh></v>
 <v t="amd.20160329124903.1" a="E"><vh>@path content</vh>
-<v t="leo.20160428001122.1"><vh>@clean template-20160506.md</vh>
-<v t="leo.20160428003416.1"><vh>16</vh></v>
-<v t="leo.20160428003543.1"><vh>18</vh></v>
-<v t="leo.20160428004344.1"><vh>20</vh></v>
-<v t="leo.20160428005159.1"><vh>22</vh></v>
-</v>
-<v t="leo.20160506105913.1"><vh>@clean template-20160427.md</vh>
-<v t="leo.20160506105913.2"><vh>16</vh></v>
-<v t="leo.20160506105913.3"><vh>18</vh></v>
-<v t="leo.20160506105913.4"><vh>20</vh></v>
-<v t="leo.20160506105913.5"><vh>22</vh></v>
+<v t="leo.20160506105913.1"><vh>@clean template-20160427.md</vh></v>
+<v t="leo.20160506112716.1" a="E"><vh>@clean admin-20160506.md</vh>
+<v t="leo.20160506113627.1"><vh>45</vh></v>
+<v t="leo.20160506114207.1"><vh>47</vh></v>
 </v>
 <v t="amd.20160329125251.1"><vh>@clean template-20160329.md</vh></v>
 <v t="leo.20160401112739.1"><vh>@clean admin-20160401.md</vh></v>
@@ -336,79 +329,6 @@ p.b = line1 + line2 + line3 + line4 + line5 + post_content + "\n"
 # 因為節點資料更新, commander 必須 redraw
 c.redraw() 
 g.es("資料已經取回")</t>
-<t tx="leo.20160428001122.1">&lt;?xml version="1.0" encoding="utf-8"?&gt;
-&lt;!-- Created by Leo: http://leoeditor.com/leo_toc.html --&gt;
-&lt;?xml-stylesheet ekr_test ?&gt;
-&lt;leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" &gt;
-&lt;leo_header file_format="2"/&gt;
-&lt;vnodes&gt;
-&lt;v t="leo.20160428001122.1"&gt;&lt;vh&gt;@clean template-20160427.md&lt;/vh&gt;
-&lt;v t="leo.20160428003416.1"&gt;&lt;vh&gt;16&lt;/vh&gt;&lt;/v&gt;
-&lt;v t="leo.20160428003543.1"&gt;&lt;vh&gt;18&lt;/vh&gt;&lt;/v&gt;
-&lt;v t="leo.20160428004344.1"&gt;&lt;vh&gt;20&lt;/vh&gt;&lt;/v&gt;
-&lt;v t="leo.20160428005159.1"&gt;&lt;vh&gt;22&lt;/vh&gt;&lt;/v&gt;
-&lt;/v&gt;
-&lt;/vnodes&gt;
-&lt;tnodes&gt;
-&lt;t tx="leo.20160428001122.1"&gt;@language md
-Title: 第九組~40423152 網際內容管理 期中報告
-Category: 期中
-Tags: CADLAB, Ｍanual, MCAD
-Author: 40423152
-@others
-聽說要貼網址~
-
-wordpress網址~~請戴耳機欣賞
-http://wp-40423152willy.rhcloud.com/
-
-Github
-http://40423152.github.io/blog/post/index.html
-
-CMSimply
-https://goo.gl/6zng0y
-
-1. 網路線製作流程紀錄，至少完成一條 568b 網路線及一條跳線並拍攝測試成功過程影片
-
-&amp;lt;font size='8' color='red' face='標楷體'&amp;gt;[網路線](http://i.imgur.com/Ga22Rsi.jpg) &amp;lt;/font&amp;gt;
-
-&amp;lt;font size='8' color='red' face='標楷體'&amp;gt;[跳線](http://i.imgur.com/hvyAPoX.jpg) &amp;lt;/font&amp;gt;
-
-&amp;lt;iframe src="https://player.vimeo.com/video/164433363" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt; &amp;lt;p&amp;gt;&amp;lt;a href="https://vimeo.com/164433363"&amp;gt;
-
-&amp;lt;iframe src="https://player.vimeo.com/video/164432102" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt; &amp;lt;p&amp;gt;&amp;lt;a href="https://vimeo.com/164432102"&amp;gt;
-
-2. 認領一段系上網路配置，完成實體拍照上傳、完成網路配置繪圖、cat 6 網路線查驗替換及執行過程討論
-&amp;lt;font size='8' color='red' face='標楷體'&amp;gt;[照片1](http://i.imgur.com/kN6HweC.jpg)&amp;lt;/font&amp;gt;
-
-&amp;lt;font size='8' color='red' face='標楷體'&amp;gt;[照片2](http://i.imgur.com/STHR8To.jpg)&amp;lt;/font&amp;gt;
-
-&amp;lt;font size='8' color='red' face='標楷體'&amp;gt;[照片3](http://i.imgur.com/22vLD8P.jpg)&amp;lt;/font&amp;gt;
-
-&amp;lt;font size='8' color='red' face='標楷體'&amp;gt;[照片4](http://i.imgur.com/gHj97bR.jpg)&amp;lt;/font&amp;gt;
-
-&amp;lt;blockquote class="imgur-embed-pub" lang="en" data-id="H66BWKf"&amp;gt;&amp;lt;a href="//imgur.com/H66BWKf"&amp;gt;View post on imgur.com&amp;lt;/a&amp;gt;&amp;lt;/blockquote&amp;gt;&amp;lt;script async src="//s.imgur.com/min/embed.js" charset="utf-8"&amp;gt;&amp;lt;/script&amp;gt;
-
-3. 完成 Raspberry pi 3 model b 的虛擬規劃與 cadlab 中的應用流程介紹
-
-http://wp-ladisai.rhcloud.com/wp-content/uploads/2016/04/video-1461289169-SD.mp4
-
-4. 利用三個按鈕將上述內容在 pelican 與 WordPress 中以同步處理
-
-&amp;lt;!-- PELICAN_END_SUMMARY --&amp;gt;
-
-&amp;lt;a href="http://40423152.github.io/blog"&amp;gt;http://40423152.github.io/blog&amp;lt;/a&amp;gt;
-&lt;/t&gt;
-&lt;t tx="leo.20160428003416.1"&gt;&lt;/t&gt;
-&lt;t tx="leo.20160428003543.1"&gt;&lt;/t&gt;
-&lt;t tx="leo.20160428004344.1"&gt;&lt;/t&gt;
-&lt;t tx="leo.20160428005159.1"&gt;&lt;/t&gt;
-&lt;/tnodes&gt;
-&lt;/leo_file&gt;
-</t>
-<t tx="leo.20160428003416.1"></t>
-<t tx="leo.20160428003543.1"></t>
-<t tx="leo.20160428004344.1"></t>
-<t tx="leo.20160428005159.1"></t>
 <t tx="leo.20160506105913.1">@language md
 Title: 第九組~40423152 網際內容管理 期中報告
 Category: 期中
@@ -457,9 +377,133 @@ http://wp-ladisai.rhcloud.com/wp-content/uploads/2016/04/video-1461289169-SD.mp4
 
 &lt;a href="http://40423152.github.io/blog"&gt;http://40423152.github.io/blog&lt;/a&gt;
 </t>
-<t tx="leo.20160506105913.2"></t>
-<t tx="leo.20160506105913.3"></t>
-<t tx="leo.20160506105913.4"></t>
-<t tx="leo.20160506105913.5"></t>
+<t tx="leo.20160506112716.1">@language md
+Title: SVG圖~
+Category: SVG小畫家
+Tags: CADLAB, Ｍanual, MCAD
+Author:40423152
+@others
+我要成為小畫家~
+
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+&lt;script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/snap.svg/0.4.1/snap.svg-min.js"&gt;&lt;/script&gt;
+ 
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+ 
+&lt;svg width="800" height="600" viewBox="0 0 800 600" id="svgout"&gt;&lt;/svg&gt;
+ 
+&lt;script type="text/python"&gt;
+from javascript import JSConstructor
+from browser import alert
+from browser import window, document
+ 
+# 透過 window 與 JSConstructor 從 Brython 物件 snap 擷取 Snap 物件的內容
+snap = JSConstructor(window.Snap)
+ 
+# 使用 id 為 "svgout" 的 svg 標註進行繪圖
+s = snap("#svgout")
+ 
+offsetY = 50
+ 
+# 是否標示出繪圖範圍
+#borderRect = s.rect(0,0,800,640,10,10).attr({ 'stroke': "silver", 'fill': "silver", 'strokeWidth': "3" })
+ 
+g = s.group().transform('t250,120')
+r0 = s.rect(150,150,100,100,20,20).attr({ 'fill': "orange", 'opacity': "0.8", 'stroke': "black", 'strokeWidth': "2" })
+c0 = s.circle(225,225,10).attr({ 'fill': "silver", 'stroke': "black", 'strokeWidth': "4"  }).attr({ 'id': 'c0' })
+g0 = s.group( r0,c0 ).attr({ 'id': 'g0' })
+#g0.animate({ 'transform' : 't250,120r360,225,225' },4000)
+g0.appendTo( g )
+g0.animate({ 'transform' : 'r360,225,225' },4000)
+# 讓 g0 可以拖動
+g0.drag()
+ 
+r1 = s.rect(100,100,100,100,20,20).attr({ 'fill': "red", 'opacity': "0.8", 'stroke': "black", 'strokeWidth': "2" })
+c1 = s.circle(175,175,10).attr({ 'fill': "silver", 'stroke': "black" , 'strokeWidth': "4"}).attr({ 'id': 'c1' })
+g1 = s.group( r1,c1 ).attr({ 'id': 'g1' })
+g1.appendTo( g0 ).attr({ 'id': 'g1' })
+g1.animate({ 'transform' : 'r360,175,175' },4000)
+ 
+r2 = s.rect(50,50,100,100,20,20).attr({ 'fill': "blue", 'opacity': "0.8", 'stroke': "black", 'strokeWidth': "2" })
+c2 = s.circle(125,125,10).attr({ 'fill': "silver", 'stroke': "black", 'strokeWidth': "4" }).attr({ 'id': 'c2' })
+g2 = s.group(r2,c2).attr({ 'id': 'g2' })
+ 
+g2.appendTo( g1 );
+g2.animate( { 'transform' : 'r360,125,125' },4000);
+ 
+r3 = s.rect(0,0,100,100,20,20).attr({ 'fill': "yellow", 'opacity': "0.8", 'stroke': "black", 'strokeWidth': "2" })
+c3 = s.circle(75,75,10).attr({ 'fill': "silver", 'stroke': "black", 'strokeWidth': "4" }).attr({ 'id': 'c3' })
+g3 = s.group(r3,c3).attr({ 'id': 'g3' })
+ 
+g3.appendTo( g2 )
+g3.animate( { 'transform' : 'r360,75,75' },4000)
+ 
+r4 = s.rect(-50,-50,100,100,20,20).attr({ 'fill': "green", 'opacity': "0.8", 'stroke': "black", 'strokeWidth': "2" })
+c4 = s.circle(25,25,10).attr({ 'fill': "silver", 'stroke': "black", 'strokeWidth': "4" }).attr({ 'id': 'c4' })
+g4 = s.group(r4,c4).attr({ 'id': 'g4' });
+g4.appendTo( g3 )
+g4.animate( { 'transform' : 'r360,25,25' },4000)
+&lt;/script&gt;
+
+召喚小企鵝鵝鵝(回音~)
+
+&lt;svg width="800" height="700" viewBox="0 0 800 700" id="svgout1"&gt;&lt;/svg&gt;
+ 
+&lt;script type="text/python"&gt;
+from javascript import JSConstructor
+from browser import alert
+from browser import window, document
+ 
+# 透過 window 與 JSConstructor 從 Brython 物件 snap 擷取 Snap 物件的內容
+snap = JSConstructor(window.Snap)
+ 
+s = snap("#svgout1")
+# 建立物件時, 同時設定 id 名稱
+r = s.rect(10,10,100,100).attr({'id': 'rect'})
+c = s.circle(100,100,50).attr({'id': 'circle'})
+r.attr('fill', 'red')
+c.attr({ 'fill': 'blue', 'stroke': 'black', 'strokeWidth': 10 })
+r.attr({ 'stroke': '#123456', 'strokeWidth': 20 })
+s.text(180,100, '點按一下圖形').attr({'fill' : 'blue',  'stroke': 'blue', 'stroke-width': 0.2 })
+ 
+g = s.group().attr({'id': 'tux'})
+ 
+def hoverover(ev):
+    g.animate({'transform': 's1.5r45,t180,20'}, 1000, window.mina.bounce)
+ 
+def hoverout(ev):
+    g.animate({'transform': 's1r0,t180,20'}, 1000, window.mina.bounce) 
+ 
+# callback 函式
+def onSVGLoaded(data):
+    #s.append(data)
+    g.append(data)
+    #g.hover(hoverover, hoverout )
+    g.text(300,100, '將滑鼠指向企鵝')
+ 
+# 利用 window.Snap.load 載入 svg 檔案
+tux = window.Snap.load("http://chiamingyen.github.io/kmolab_data/files/Dreaming_tux.svg", onSVGLoaded)
+g.transform('t180,20')
+ 
+# 與視窗事件對應的函式
+def rtoyellow(ev):
+    r.attr('fill', 'yellow')
+ 
+def ctogreen(ev):
+    c.attr('fill', 'green')
+ 
+# 根據物件 id 綁定滑鼠事件執行對應函式
+document['rect'].bind('click', rtoyellow)
+document['circle'].bind('click', ctogreen)
+document['tux'].bind('mouseover', hoverover)
+document['tux'].bind('mouseleave', hoverout)
+&lt;/script&gt;
+</t>
+<t tx="leo.20160506113627.1"></t>
+<t tx="leo.20160506114207.1"></t>
 </tnodes>
 </leo_file>
